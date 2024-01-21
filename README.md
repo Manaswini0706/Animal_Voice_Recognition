@@ -54,11 +54,11 @@ Travelers and forest officers can utilize this tool to recognize unknown animals
 
 If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request. Your contributions are highly valued!
 
-Samples of Audio Classification:
+## Samples of Audio Classification:
 
 1) Audio Extraction and conversion into waves.
 
-![WhatsApp Image 2024-01-21 at 08 25 42_d743ca19](https://github.com/Manaswini0706/Animal_Voice_Recognition/assets/113255403/6ca652f2-5dc6-432e-9fb4-52aacdb0f114)
+    ![WhatsApp Image 2024-01-21 at 08 25 42_d743ca19](https://github.com/Manaswini0706/Animal_Voice_Recognition/assets/113255403/6ca652f2-5dc6-432e-9fb4-52aacdb0f114)
 
 2) Compressing the Audio
 
@@ -66,7 +66,7 @@ Samples of Audio Classification:
 
 3) Passing the test and train data and then classifying it into CAT or DOG
 
- ![WhatsApp Image 2024-01-21 at 08 25 42_54f50e70](https://github.com/Manaswini0706/Animal_Voice_Recognition/assets/113255403/080ebade-2b18-4d7c-8982-f7699b493c58)
+   ![WhatsApp Image 2024-01-21 at 08 25 42_54f50e70](https://github.com/Manaswini0706/Animal_Voice_Recognition/assets/113255403/080ebade-2b18-4d7c-8982-f7699b493c58)
 
 
 
