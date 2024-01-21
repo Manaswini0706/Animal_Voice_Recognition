@@ -60,4 +60,15 @@ Samples of Audio Classification:
 
 ![WhatsApp Image 2024-01-21 at 08 25 42_d743ca19](https://github.com/Manaswini0706/Animal_Voice_Recognition/assets/113255403/6ca652f2-5dc6-432e-9fb4-52aacdb0f114)
 
+2) Compressing the Audio
+
+   ![WhatsApp Image 2024-01-21 at 08 25 42_3a13b085](https://github.com/Manaswini0706/Animal_Voice_Recognition/assets/113255403/ee6f1c89-6526-4b83-ac54-ae6871c4048c)
+
+3) Passing the test and train data and then classifying it into CAT or DOG
+
+ ![WhatsApp Image 2024-01-21 at 08 25 42_54f50e70](https://github.com/Manaswini0706/Animal_Voice_Recognition/assets/113255403/080ebade-2b18-4d7c-8982-f7699b493c58)
+
+
+
+
 Happy animal voice recognition! 🐾
